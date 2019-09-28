@@ -1,37 +1,40 @@
-# GTH-Location-TeamName
+# GTH-Location- Through Our Eyes
 Project submission for the `Global Travel Hackathon in [Location], by [team-name] team`.
 
 **Write one sentence explaining what does your project.**
 
-![Add a screenshot from your project. For example the main website page.](https://raw.githubusercontent.com/Global-Travel-Hackathon/GTH-Location-TeamName/master/screenshots/Global-Travel-Hackathon-image.png)
+Our project is a walking audio guide that uses Google chatbot interface to select different journeys through a city according to a user's interest. This data is then sent to a Python Backend and finally a Google map with a planned journey and an mp3 audio are sent back to the user. So they can follow their own route through the destination.
 
 ## :books: Description
 
+
 Write a short abstract of the project. Don't forget to include:
 
-* Hackathon topic you used (Sustainability, Accessibility or Community);
+We have focused on accessibility and community. 
+This App is designed for the visually impaired so that they can enjoy the sounds of the city.
+It Also helps users understand the local community and culture through the eyes of its residents
 * The development tools used to build the project;
-* SDKs used in the project;
-* APIs used in the project;
-* Any assets used in the project;
-* Any libraries used in the project;
-* Any components not created at the hackathon;
+* React (Frontend) and Python (Backeng)
+* Google Assist Chat, Google Maps API
+* QMUL audio tours
+* react-maps 
+* Player-bar from React
 
 ## :hugs: Maintainers
 
 List all the team members. For example:
-* [Jona Azizaj - jonatoni](https://github.com/jonatoni)
+* Chai
+*Irem
+*Dan
+*Paolo
+*Amit
 
 
 ## :tada: Why is this so awesome?
-
-* List reasons why you think your project is awesome.
-* Two.
-* Etc.
+It's a new way to explore cities by learning about the multiple perspectives that make up our world. 
+It's friendly for visually impaired users
 
 ## :hammer_and_wrench: Installation
-
-Write a short description how can other people run your project.
 
 ## :bulb: Devstack
 
