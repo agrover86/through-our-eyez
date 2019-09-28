@@ -1,0 +1,12 @@
+{
+  title: 'Walk Around East London',
+  artist: 'Queen Mary',
+  releaseInfo: '2018',
+  albumCover: '../public/assets/images/QM.jpg',
+  slug: 'the-colors',
+  songs: [
+      { title: 'QM Audio Walk 1', duration: '58', audioSrc: '../public/assets/audio/QMAudioWalk1.mp3' },
+      { title: 'QM Audio Walk 11', duration: '84', audioSrc: '../public/assets/audio/QMAudioWalk11.mp3' },
+      { title: 'QM Audio Walk 1', duration: '176', audioSrc: '../public/assets/audio/QMAudioWalk12.mp3' }
+  ]
+}
