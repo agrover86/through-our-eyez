@@ -120,7 +120,7 @@ def request_itinery():
 #        n_clusters = len(set(cluster_labels))
 #        new["cluster_labels"] = Series(cluster_labels, index=new.index)
 
-#        query= '?origin=' + start_lat + '%2C' + start_lon + '&destination=' + end_lat + '%2C' + start_lon + '&waypoint=' + way_lat + '%2C' + way_lon + '&key=AIzaSyCvk1meEdiCkKU2VxaG4HQX-KPKw4i-Iio'
+#        query= '?origin=' + start_lat + '%2C' + start_lon + '&destination=' + end_lat + '%2C' + start_lon + '&waypoint=' + way_lat + '%2C' + way_lon + '&key=API_KEY'
         # Analyse post message at root /
         # load json
         # get api data
