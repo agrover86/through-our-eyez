@@ -9,7 +9,7 @@
     "react-geolocated": "^3.0.1",
     "react-google-maps": "^9.4.5",
     "react-h5-audio-player": "^1.2.1",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.1",
     "webpack": "^4.41.0"
   },
   "scripts": {
